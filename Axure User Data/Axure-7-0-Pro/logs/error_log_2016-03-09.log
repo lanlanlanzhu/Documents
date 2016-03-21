@@ -1,0 +1,12 @@
+
+----------------------------------------
+2016/3/9 22:57:48 -- -29352241
+Message: Error: NameResolutionFailure
+Type: System.Net.WebException
+Source: System
+
+  at System.Net.HttpWebRequest.EndGetRequestStream (IAsyncResult asyncResult) [0x00000] in <filename unknown>:0 
+  at System.Net.HttpWebRequest.GetRequestStream () [0x00000] in <filename unknown>:0 
+  at mn.a (Boolean A_0, Boolean A_1) [0x00000] in <filename unknown>:0 
+----------------------------------------
+
